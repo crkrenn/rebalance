@@ -1,3 +1,4 @@
+python-dotenv
 matplotlib
 numpy
 pandas<=1.4.0
